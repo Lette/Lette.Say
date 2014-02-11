@@ -6,11 +6,11 @@ I got jealous of my Mac-wielding friend who had a console app that could speak s
 
 #### Usage ####
 
-| command line      | Description
-| ----------------- | ----------------------------
-| say Hello, World! | speaks a single line of text
-| say -f file.txt   | speaks line by line from a file
-| say -F file.txt   | speaks line by line from a file and prints those lines to stdout as well
+| Command Line        | Description
+|:------------------- |:----------------------------
+| `say Hello, World!` | speaks a single line of text
+| `say -f file.txt`   | speaks line by line from a file
+| `say -F file.txt`   | speaks line by line from a file and prints those lines to stdout as well
 
 #### Disclaimer ####
 
